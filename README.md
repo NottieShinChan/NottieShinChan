@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Designing, Game testing and Software Developing
 - 🌱 I’m currently learning introductory to Full Stack Web Dev 
 - 📫 How to reach me
-   > insta : udayp98
-   > linkedin : Uday Parmar
+   > linkedin : www.linkedin.com/in/uday-parmar-319387245
+   > insta : udayp98 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Friendly and Fast Learner once I understand.
 
