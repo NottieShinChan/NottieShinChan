@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning introductory to Full Stack Web Dev 
 - 📫 How to reach me
    > linkedin : www.linkedin.com/in/uday-parmar-319387245
-   > insta : udayp98 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Friendly and Fast Learner once I understand.
 
